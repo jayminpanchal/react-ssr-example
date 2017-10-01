@@ -4,6 +4,10 @@ import {
   Link
 } from 'react-router-dom';
 import logo from './logo.svg';
+import Home from './pages/Home';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import NotFound from './pages/NotFound';
 
 class App extends Component {
   render() {
